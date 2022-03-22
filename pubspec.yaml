@@ -36,6 +36,9 @@ dependencies:
   cupertino_icons: ^1.0.2
 
   percent_indicator: ^3.4.0
+  bloc: ^8.0.1
+  flutter_bloc: ^8.0.0
+  equatable: ^2.0.3
 
 dev_dependencies:
   flutter_test:
